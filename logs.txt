@@ -1,0 +1,399 @@
+Error while accessing max(page): Invalid URL 'max(page)': No scheme supplied. Perhaps you meant https://max(page)?
+Failed to retrieve data from: https://furniturefetish.com.au/products/oslo-office-chair-white
+Failed to retrieve data from: https://hemisphereliving.com.au/products/
+Failed to retrieve data from: https://home-buy.com.au/products/bridger-pendant-larger-lamp-metal-brass
+Error while accessing https://beckurbanfurniture.com.au/products/page/2/: HTTPSConnectionPool(host='beckurbanfurniture.com.au', port=443): Max retries exceeded with url: /products/page/2/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:992)')))
+Failed to retrieve data from: https://edenliving.online/collections/summerloving/products/nice-lounge-1
+Failed to retrieve data from: https://www.ourfurniturewarehouse.com.au/products/athens-3pce-lounge-includes-2x-armless-3-seater-and-corner-ottoman-in-grey-storm-fabric?_pos=1&_sid=9f9ca4320&_ss=r
+Failed to retrieve data from: https://cane-line.co.uk/collections/news-2020/products/breeze-sunbed-5569
+Failed to retrieve data from: https://haute-living.com/products/beam-desk
+Failed to retrieve data from: https://www.balirepublic.com.au/products/fabric-cleaner
+Failed to retrieve data from: https://premiumpatio.com.au/products/outdoor-tables/page/3/
+Error while accessing https://furnish123watertown.com/products/: HTTPSConnectionPool(host='furnish123watertown.com', port=443): Max retries exceeded with url: /products/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'furnish123watertown.com'. (_ssl.c:992)")))
+Failed to retrieve data from: http://www.vawayside.net/store/products/tag/beds
+Error while accessing https://curiousgrace.com.au/products/cleo-desk-lamp: HTTPSConnectionPool(host='curiousgrace.com.au', port=443): Max retries exceeded with url: /products/cleo-desk-lamp (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'curiousgrace.com.au'. (_ssl.c:992)")))
+Failed to retrieve data from: https://modshop1.com/collections/amalfi/products/amalfi-3-door-credenza
+Failed to retrieve data from: https://www.scandesign.com/products/pavia-sectional-ivory
+Failed to retrieve data from: https://www.sofamania.com/products/carl-victorian-inspired-velvet-button-detail-vanity-accent-stool
+Failed to retrieve data from: https://www.fentonandfenton.com.au/products/gift-card&media=http://cdn.shopify.com/s/files/1/1909/9637/products/GiftVouchers_Product_1024x1024.jpg&description=Gift%20Card%20%23Art-Lover%20%23Birthday%20%23Colour-Lover
+Failed to retrieve data from: https://stationfurniture.store/products/milano
+Failed to retrieve data from: https://acmeshelving.com/collections/signs/products/sale
+Failed to retrieve data from: https://www.jseitz.com/products/buddha
+Error while accessing https://www.homekoncepts.com/products/furniture/tables/end-tables/: HTTPSConnectionPool(host='www.homekoncepts.com', port=443): Max retries exceeded with url: /products/furniture/tables/end-tables/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf974d8610>: Failed to resolve 'www.homekoncepts.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://fmvegas.com/products/carlo-dresser: HTTPSConnectionPool(host='fmvegas.com', port=443): Max retries exceeded with url: /products/carlo-dresser (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fmvegas.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://nicoyafurniture.com.au/products/playa-bowl
+Failed to retrieve data from: https://shopspencerfurnituresiouxfalls.com/products/glass-lamp
+Failed to retrieve data from: https://bryantscountrystore.com/products/deli-sandwich-carryout
+Failed to retrieve data from: https://vincentdesign.com.au/products/spaltekanden-big-white
+Failed to retrieve data from: https://magnolialane.biz/products/anika-cushion
+Failed to retrieve data from: https://blupeter.com.au/products/tulip-object
+Failed to retrieve data from: https://valentinesfurniture.com.au/products/
+Failed to retrieve data from: https://www.loungesplus.com.au/products/baird-fabric-lounge-package
+Failed to retrieve data from: https://runyonsfinefurniture.com/products/alf-bar-stool
+Failed to retrieve data from: https://www.comfortfurniture.com.sg/sale/products/office
+Failed to retrieve data from: https://karladubois.com/products/wooster-convertible-crib
+Failed to retrieve data from: https://brownsquirrelfurniture.com/furniture/rest-bedrooms/rest-beds/sleep-queen/products/laurel-sleigh/
+Failed to retrieve data from: https://viesso.com/products/haru-bed
+Failed to retrieve data from: https://floydhome.com/products/the-floyd-hat
+Failed to retrieve data from: https://www.fiveelementsfurniture.com/collections/sola-office-collection/products/sola-lift-desk
+Failed to retrieve data from: https://test-danish-inspirations.pantheonsite.io/products/products/bedroom/page/3/
+Failed to retrieve data from: https://dev-danish-inspirations.pantheonsite.io/products/products/bedroom/page/3/
+Error while accessing https://houseofhollingsworthblog.com/products/locker: HTTPSConnectionPool(host='houseofhollingsworthblog.com', port=443): Max retries exceeded with url: /products/locker (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97e1add0>: Failed to resolve 'houseofhollingsworthblog.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.wardrobe-bunk-bed-sofa.uk/products/wardrobe-ava-4-3
+Failed to retrieve data from: https://www.hopewells.co.uk/products/living-dining/sofas-chairs/tetrad/tetrad-patna-chair
+Failed to retrieve data from: https://kokocollective.com.au/products/esme-natural-rattan-day-bed
+Failed to retrieve data from: http://www.genesisfurniturelv.com/products/
+Error while accessing https://daufurniture.com/products/style/transitional/dana-upholstered-bed/: HTTPSConnectionPool(host='daufurniture.com', port=443): Max retries exceeded with url: /products/style/transitional/dana-upholstered-bed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'daufurniture.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.waynesfinefurnitureandbedding.com/search/products/?s=power+recliners&pp=120
+Failed to retrieve data from: https://theodores.com/products/
+Error while accessing https://www.theoakfurnitureshop.com/products/country-trend-solid-oak-tv-stand-51/: HTTPSConnectionPool(host='www.theoakfurnitureshop.com', port=443): Max retries exceeded with url: /products/country-trend-solid-oak-tv-stand-51/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.theoakfurnitureshop.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://totalpatioaccessories.com/products/product07
+Failed to retrieve data from: https://www.groensfinefurniture.com/products/Miscellaneous/misc/394554.html
+Failed to retrieve data from: https://yesterdaystreefurniture.com/products/gifts/
+Failed to retrieve data from: https://www.popandscott.com/products/raffia-sun
+Failed to retrieve data from: https://shophorne.com/products/sarpaneva-cast-iron-casserole
+Failed to retrieve data from: https://thebrick.com/products/tacoma-chest
+Failed to retrieve data from: https://www.gowfb.com/products/patio-set-covers
+Failed to retrieve data from: https://decorum-shop.co.uk/products/gift-card-10-25-50-100
+Failed to retrieve data from: https://designkollective.com/stores/woodlandcreek/products/76623
+Failed to retrieve data from: https://pawleysislandhammocks.com/products/swings/rope
+Failed to retrieve data from: https://homeresource.com/products/series-7-chair&media=http://cdn.shopify.com/s/files/1/1170/0268/products/Series-7-ann-1423601841_1024x1024.jpeg&description=Series%207%20Chair%20%23Chairs
+Failed to retrieve data from: https://www.antoninimodernliving.com/products/
+Error while accessing https://www.jandjtreasuretrove.net/apps/webstore/products/show/8098794: HTTPSConnectionPool(host='www.jandjtreasuretrove.net', port=443): Max retries exceeded with url: /apps/webstore/products/show/8098794 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+Failed to retrieve data from: https://www.idcmn.com/products/sun-company-861013-queen-bed&source=webclient
+Error while accessing https://calligarisla.com/products/living/sofas/metro/minimal-and-contemporary-modular-sofa: HTTPSConnectionPool(host='calligarisla.com', port=443): Max retries exceeded with url: /products/living/sofas/metro/minimal-and-contemporary-modular-sofa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97b53390>: Failed to resolve 'calligarisla.com' ([Errno -5] No address associated with hostname)"))
+Failed to retrieve data from: https://stealasofa.com/products/isla-gray-fabric-sectional-sofa-4249
+Failed to retrieve data from: https://urbanfurnishing.net/products/5a-rio
+Failed to retrieve data from: https://www.furnituremarts.com/products/gallery-home.aspx
+Failed to retrieve data from: https://osmen.com.au/products/customize-cushion
+Failed to retrieve data from: https://www.stevenshellliving.com/products/piccolo-jug
+Failed to retrieve data from: https://contempoconcepts.com/products/winndom-berkeley-iii?_pos=1&_sid=362e09ca2&_ss=r
+Failed to retrieve data from: https://sarahellison.com.au/collections/all/products/muse
+Failed to retrieve data from: https://oakspecialists.com/products/bedroom/beds/63/
+Failed to retrieve data from: https://midinmod.com/products/vendetta-bookcase%20via%20@https://twitter.com/midinmod?lang=en
+Failed to retrieve data from: https://www.unclaimed-furniture.com/products/Standard-Furniture/stand/11406.html
+Error while accessing http://www.kis-lv.com/Products/products.html: HTTPConnectionPool(host='www.kis-lv.com', port=80): Max retries exceeded with url: /Products/products.html (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf982dd690>: Failed to resolve 'www.kis-lv.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://wayborn.com/products/
+Failed to retrieve data from: https://www.bovafurniture.com/products/office/desks/page/2/
+Failed to retrieve data from: https://hauslondon.com/products/gift-card
+Failed to retrieve data from: https://allworldfurniture.com/products/sallie-stool&via=http://www.twitter.com/alworldfurnitur&text=Euro%20Style%20Sallie%20Accent%20Stool
+Failed to retrieve data from: https://www.rockymountain.furniture/products/jofran/15003.html
+Failed to retrieve data from: https://huckandpeck.com/products/gift-card
+Failed to retrieve data from: https://mybossfurniture.com/products/tullis-2&via=&text=Tullis%20Cream/Navy/Gray%20Medium%20Rug
+Error while accessing https://www.furnish123quadcities.com/search/products/?s=36505: HTTPSConnectionPool(host='www.furnish123quadcities.com', port=443): Max retries exceeded with url: /search/products/?s=36505 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+Failed to retrieve data from: https://www.sutherlandfurniture.com/collections/quick-ship/products/franck-sofa-quickship
+Failed to retrieve data from: https://sjotime.com/products/notch-desk
+Failed to retrieve data from: https://www.puji.com/www.puji.com/products/urban-industrial-bistro-dining-table
+Failed to retrieve data from: https://www.shoptorious.com/products/nova-domus-jagger-modern-dark-grey-walnut-bedroom-set
+Failed to retrieve data from: https://www.arighibianchi.co.uk/collections/new-in-homepage/products/birds-coat-rack
+Failed to retrieve data from: https://idlehands.design/products/page/2/
+Error while accessing https://www.diyfurniturestore.com/products/inside-out: HTTPSConnectionPool(host='www.diyfurniturestore.com', port=443): Max retries exceeded with url: /products/inside-out (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.diyfurniturestore.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://apato.com.au/products/work/kobo-st-desk/
+Failed to retrieve data from: https://ardoutdoor.com/products/
+Failed to retrieve data from: https://tabularasa-furniture.com/collections/frontpage/products/ohmm-fiesta
+Error while accessing https://www.harpersproject.com/products/marble-stool: HTTPSConnectionPool(host='www.harpersproject.com', port=443): Max retries exceeded with url: /products/marble-stool (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.harpersproject.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.morningstartrading.ca/pages/products/recycled-treasures-consignment-pieces/hidden-treasure
+Failed to retrieve data from: https://www.hatihome.com/products/lounge-cane
+Error while accessing https://www.meta44.com/products/homeland: HTTPSConnectionPool(host='www.meta44.com', port=443): Max retries exceeded with url: /products/homeland (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97949d90>: Failed to resolve 'www.meta44.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://alasaw.com/products/sample-box
+Failed to retrieve data from: http://www.mountainteak.com/products/designer-teak-furniture/
+Failed to retrieve data from: https://www.ameriwoodhome.com/Products/Storage/All/
+Failed to retrieve data from: https://www.homeandstyle.com.sg/products/richmond-sofa-grey
+Failed to retrieve data from: http://modliving.com.ph/products/
+Error while accessing https://curiocavern.ph/products/cow-skull: HTTPSConnectionPool(host='curiocavern.ph', port=443): Max retries exceeded with url: /products/cow-skull (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'curiocavern.ph'. (_ssl.c:992)")))
+Error while accessing https://www.mossmanilahome.com/products/: HTTPSConnectionPool(host='www.mossmanilahome.com', port=443): Max retries exceeded with url: /products/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf976d5d10>, 'Connection to www.mossmanilahome.com timed out. (connect timeout=None)'))
+Failed to retrieve data from: https://www.getmycouch.com/collections/sofa/products/sofa-sectional-bed-fn-gmc-008237
+Failed to retrieve data from: https://www.castlery.com.au/products/mico-stool?quantity=1
+Failed to retrieve data from: https://nazzek.myshopify.com/products/wooden-coffee-table
+Failed to retrieve data from: https://newforestrusticfurniture.co.uk/products/rustic-ruler-height-chart
+Failed to retrieve data from: https://www.starliving.com.sg/products/heather-armchair
+Error while accessing https://www.langria.com/products/laptop-desk-cart: HTTPSConnectionPool(host='www.langria.com', port=443): Max retries exceeded with url: /products/laptop-desk-cart (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96f5e090>: Failed to resolve 'www.langria.com' ([Errno -3] Temporary failure in name resolution)"))
+Failed to retrieve data from: https://www.kolocollection.com/collections/lounging/products/bentley-sofa-in-oyster-weave
+Failed to retrieve data from: https://jordanshome.ca/products/blue-vase
+Failed to retrieve data from: https://mikazahome.ca/products/page/4/
+Failed to retrieve data from: https://urbangalleria.com/products/rowan-pod-swing
+Failed to retrieve data from: https://www.granitelane.com.au/products/flourish-print
+Failed to retrieve data from: https://www.skovby.com/en-gb/products/tv-cabinets/skovby-86
+Failed to retrieve data from: https://boulevardoutdoorfurniture.com/products/surin-lounge-set
+Failed to retrieve data from: https://taktcph.com/products/
+Failed to retrieve data from: https://jnmhome.ca/products/kuma-artwork
+Failed to retrieve data from: http://gharwakhri.com/Products/Bed-Room
+Error while accessing https://www.nigbursfinefurniture.com/products/: HTTPSConnectionPool(host='www.nigbursfinefurniture.com', port=443): Max retries exceeded with url: /products/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nigbursfinefurniture.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://brownandbeam.com/products/hunts-pouf
+Failed to retrieve data from: https://furniturestoresalemoregon.com/products/amish-furniture/style-your-own-syo/
+Failed to retrieve data from: https://www.dengiloutdoorfurniture.com/products/sofa-sets/rattan-sofa-sets/
+Error while accessing https://birba.co.za/products/elkay-coffee-table-with-black-resign-line-detail: HTTPSConnectionPool(host='birba.co.za', port=443): Max retries exceeded with url: /products/elkay-coffee-table-with-black-resign-line-detail (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98164950>: Failed to resolve 'birba.co.za' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://zenchair.co.za/products/galileo-backrest-for-outdoors
+Failed to retrieve data from: https://www.youngath-art.com/products/free-gift-with-every-kids-bed-purchase
+Failed to retrieve data from: https://www.masayacompany.com/collections/featured/products/wood-leather-ottoman
+Failed to retrieve data from: https://arkaliving.com/products/african-palm-woven-chair
+Error while accessing https://www.cmphouse.com/products/huntington%E2%84%A2-8pc-patio-sofa-and-lounge-chair-set: HTTPSConnectionPool(host='www.cmphouse.com', port=443): Max retries exceeded with url: /products/huntington%E2%84%A2-8pc-patio-sofa-and-lounge-chair-set (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96e9a090>: Failed to resolve 'www.cmphouse.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://inliving.com/products/: HTTPSConnectionPool(host='inliving.com', port=443): Max retries exceeded with url: /products/ (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Failed to retrieve data from: https://www.oakvillage.co.uk/products/woburn-painted-wine-rack%20via%20@//twitter.com/oakvillage
+Failed to retrieve data from: https://davidsfurniture.com/collections/quick-ship-furniture/products/craftmaster-bang-bang-sofa
+Error while accessing https://www.fdxonline.com/en/en/products/chaise-lounge-by-dfn: HTTPSConnectionPool(host='www.fdxonline.com', port=443): Max retries exceeded with url: /en/en/products/chaise-lounge-by-dfn (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9707ebd0>: Failed to resolve 'www.fdxonline.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.stacksfurniture.co.nz/products/rapaki3seatsofa-fog
+Failed to retrieve data from: https://bydesignmodern.com/products/dining-chairs-314-080
+Error while accessing https://www.bfelix.com/products/lanceros-sofa: HTTPSConnectionPool(host='www.bfelix.com', port=443): Max retries exceeded with url: /products/lanceros-sofa (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bfelix.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://mueblesitaliano.ph/products/
+Failed to retrieve data from: https://www.amcfurniture.co.uk/products/1-6m-loui-dining-table-with-4-nicole-chairs
+Failed to retrieve data from: https://timelessdesign.com.my/products/l-a-lcw-lounge-chair
+Failed to retrieve data from: https://atomi.shop/products/wallpaper
+Error while accessing https://www.houzzconcept.com.au/products/ino-sideboard: HTTPSConnectionPool(host='www.houzzconcept.com.au', port=443): Max retries exceeded with url: /products/ino-sideboard (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98f49050>: Failed to resolve 'www.houzzconcept.com.au' ([Errno -2] Name or service not known)"))
+Error while accessing https://kenittifurniture.com/products/tv-cabinet-mn681: HTTPSConnectionPool(host='kenittifurniture.com', port=443): Max retries exceeded with url: /products/tv-cabinet-mn681 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kenittifurniture.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.mfdesign.com.my/collections/sales-05/products/mf-design-sofa-3-seater-sales-05
+Error while accessing https://www.pacificlifestyledecor.com/products/outdoor-patio-pool-and-garden-wicker-storage-box: HTTPSConnectionPool(host='www.pacificlifestyledecor.com', port=443): Max retries exceeded with url: /products/outdoor-patio-pool-and-garden-wicker-storage-box (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98e32c10>: Failed to resolve 'www.pacificlifestyledecor.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.furnitureworldsaskatoon.com/products/
+Error while accessing https://foxwoodmerchants.com/products/v-table-need-info: HTTPSConnectionPool(host='foxwoodmerchants.com', port=443): Max retries exceeded with url: /products/v-table-need-info (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'foxwoodmerchants.com'. (_ssl.c:992)")))
+Error while accessing https://rusticcraft.ca/products/rocking-chair: HTTPSConnectionPool(host='rusticcraft.ca', port=443): Max retries exceeded with url: /products/rocking-chair (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rusticcraft.ca'. (_ssl.c:992)")))
+Failed to retrieve data from: https://rusteak.com/products/sofa
+Failed to retrieve data from: https://www.ambersfurniture.com/products/win-table
+Failed to retrieve data from: https://fredericksgallery.ca/collections/bars/products/sonoma-695-064
+Error while accessing https://www.herashome.com/products/462: HTTPSConnectionPool(host='www.herashome.com', port=443): Max retries exceeded with url: /products/462 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf96eeced0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Error while accessing https://minimalandmodern.ca/products/moes-home-collection-raw-city-at-large-wp-1105-37: HTTPSConnectionPool(host='minimalandmodern.ca', port=443): Max retries exceeded with url: /products/moes-home-collection-raw-city-at-large-wp-1105-37 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96eed190>: Failed to resolve 'minimalandmodern.ca' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.equilibriumfurnishings.com/products/abby-walnut-credenza
+Error while accessing https://htinteriors.ca/products/cross-bench: HTTPSConnectionPool(host='htinteriors.ca', port=443): Max retries exceeded with url: /products/cross-bench (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9705f210>: Failed to resolve 'htinteriors.ca' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://designhouse.com/products/pig-bank
+Failed to retrieve data from: https://mildanmarket.com/products/bling-mirror-30
+Failed to retrieve data from: https://treaclegeorge.com/products/gift-voucher
+Error while accessing https://www.50-online.com/products/wooden-house-ornament: HTTPSConnectionPool(host='www.50-online.com', port=443): Max retries exceeded with url: /products/wooden-house-ornament (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.50-online.com'. (_ssl.c:992)")))
+Failed to retrieve data from: http://thomsonfurnitureonline.com/products/
+Error while accessing http://www.bycollage.com/products/?product_tag=flux: HTTPConnectionPool(host='www.bycollage.com', port=80): Max retries exceeded with url: /products/?product_tag=flux (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf9767ed50>: Failed to resolve 'www.bycollage.com' ([Errno -5] No address associated with hostname)"))
+Error while accessing https://boneinlayhome.com.au/products/bone-inlay-french-drawers-floral-grey: HTTPSConnectionPool(host='boneinlayhome.com.au', port=443): Max retries exceeded with url: /products/bone-inlay-french-drawers-floral-grey (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'boneinlayhome.com.au'. (_ssl.c:992)")))
+Failed to retrieve data from: https://homedesignstoreflorida.com/products/rebecca-bed-king-size
+Failed to retrieve data from: https://www.lakkadhaara.com/products/sheesham-made-wooden-khat
+Error while accessing https://www.kid2youth.in/products/duo-ergonomic-chair: HTTPSConnectionPool(host='www.kid2youth.in', port=443): Max retries exceeded with url: /products/duo-ergonomic-chair (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96e21950>: Failed to resolve 'www.kid2youth.in' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: http://www.komodromos.com.cy/products/special-offers/page/2/
+Failed to retrieve data from: https://bedesign.fi/products/gift-card
+Error while accessing https://www.elementsconcept.com.sg/collections/lighting/products/light-shade: HTTPSConnectionPool(host='www.elementsconcept.com.sg', port=443): Max retries exceeded with url: /collections/lighting/products/light-shade (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.elementsconcept.com.sg'. (_ssl.c:992)")))
+Failed to retrieve data from: https://singaporetradingpost.com/products/decorative-white-carved-console
+Failed to retrieve data from: https://www.ministryofchair.com/products/cushion-lapland
+Failed to retrieve data from: https://www.bibliotek.co/collections/featured/products/bird-oak-large
+Failed to retrieve data from: https://warehaus.sg/products/boris-chair
+Error while accessing https://home99.sg/products/l-shape-half-leather-sofa-lp860: HTTPSConnectionPool(host='home99.sg', port=443): Max retries exceeded with url: /products/l-shape-half-leather-sofa-lp860 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96e3ec90>: Failed to resolve 'home99.sg' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.nookandcranny.com/products/valda-sofa
+Failed to retrieve data from: https://www.gowanusfurniture.com/www.gowanusfurniture.com/products/class-make-your-own-custom-cutting-board
+Failed to retrieve data from: https://epilog.co.id/products/telephone-box
+Failed to retrieve data from: https://gingerjarfurniture.com/products/page/3/
+Failed to retrieve data from: http://www.italiafurniture.com/products/ellis-dining-collection
+Failed to retrieve data from: https://onske.co.uk/products/gift-card
+Failed to retrieve data from: https://ilrestaurato.com/products/chrome-counter-bar-stools-1970s
+Error while accessing https://polini.co.nz/products/changing-table-polini-simple-1080-white: HTTPSConnectionPool(host='polini.co.nz', port=443): Max retries exceeded with url: /products/changing-table-polini-simple-1080-white (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'polini.co.nz'. (_ssl.c:992)")))
+Error while accessing https://basefurniture.co.nz/products/pegboard: HTTPSConnectionPool(host='basefurniture.co.nz', port=443): Max retries exceeded with url: /products/pegboard (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf982c22d0>: Failed to resolve 'basefurniture.co.nz' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.hammockshop.co.nz/products/childrens-hammock-chair
+Failed to retrieve data from: https://www.attichomestore.co.nz/products/maori-hand-carved-wooden-taiha
+Failed to retrieve data from: https://urban-beach.co.nz/products/sofa-mica?view=quick
+Error while accessing https://countrylife.co.nz/commerce/products/2890977554284032/?rt=9&referral_code=page_shop_tab&ref=page_shop_tab: HTTPSConnectionPool(host='countrylife.co.nz', port=443): Max retries exceeded with url: /commerce/products/2890977554284032/?rt=9&referral_code=page_shop_tab&ref=page_shop_tab (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf982c2c50>: Failed to resolve 'countrylife.co.nz' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.shopden-la.com/products/single-metal-grated-pendant-lamp-by-the-feldman-company
+Failed to retrieve data from: https://wrightsfurnitures.com/products/
+Error while accessing https://bohovalley.com.au/products/fern-daybed: HTTPSConnectionPool(host='bohovalley.com.au', port=443): Max retries exceeded with url: /products/fern-daybed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97d0f310>: Failed to resolve 'bohovalley.com.au' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.lounj.com.au/products/kiki-carver-chair: HTTPSConnectionPool(host='www.lounj.com.au', port=443): Max retries exceeded with url: /products/kiki-carver-chair (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97d0d950>: Failed to resolve 'www.lounj.com.au' ([Errno -2] Name or service not known)"))
+Error while accessing https://australianchildrensfurniture.com.au/products/modular-sectional-unit: HTTPSConnectionPool(host='australianchildrensfurniture.com.au', port=443): Max retries exceeded with url: /products/modular-sectional-unit (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98e51590>: Failed to resolve 'australianchildrensfurniture.com.au' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.bandhinidesign.com/products/norway
+Failed to retrieve data from: https://www.case22.com.au/products/moooi-chess-table
+Failed to retrieve data from: https://www.kwikshopnship.com.au/products/rede-de-dormir-hammock
+Failed to retrieve data from: https://nestz.com.au/products/classic-chess-board
+Failed to retrieve data from: https://kubekfurniture.com/products/pearl-day-bed&title=Pearl%20Day%20Bed%20-%20Reserve%20one%20from%20June/July%20stock%20with%20just%20a%20deposit%20-%20CONTACT%20US
+Error while accessing https://razoutlets.com/products/table-lamp: HTTPSConnectionPool(host='razoutlets.com', port=443): Max retries exceeded with url: /products/table-lamp (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9817f8d0>: Failed to resolve 'razoutlets.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://all3loops.com/products/personalized-coozies: HTTPSConnectionPool(host='all3loops.com', port=443): Max retries exceeded with url: /products/personalized-coozies (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9817d550>: Failed to resolve 'all3loops.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://augustusbrandt.co.uk/products/seating-2/204315/
+Error while accessing https://www.konfoliving.com/products/miami-bean-bag-chair: HTTPSConnectionPool(host='www.konfoliving.com', port=443): Max retries exceeded with url: /products/miami-bean-bag-chair (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:992)')))
+Failed to retrieve data from: https://gousesfurniture.com/products/
+Failed to retrieve data from: https://maximahouse.com/products/denver-tv-set
+Error while accessing https://www.conceptuscollection.com/products/kyu-dining-chair: HTTPSConnectionPool(host='www.conceptuscollection.com', port=443): Max retries exceeded with url: /products/kyu-dining-chair (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.conceptuscollection.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://woodaction.com/products/folding-wardrobe
+Failed to retrieve data from: https://homesteadfurniturebc.com/products/zane-bedroom-collection-please-contact-us-for-black-friday-pricing&via=hsfbc&text=Zane%20Bedroom%20Collection
+Failed to retrieve data from: https://popstrukt.com/products/steel-shelf-standard
+Failed to retrieve data from: https://woodtribe.co.nz/products/wood-framed-signs
+Failed to retrieve data from: https://www.project82.com.au/products/palermo-rug-by-armadilloampco
+Error while accessing https://www.jaimesfurniture.com/products/junior-beds-1: HTTPSConnectionPool(host='www.jaimesfurniture.com', port=443): Max retries exceeded with url: /products/junior-beds-1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbf980c2fd0>, 'Connection to www.jaimesfurniture.com timed out. (connect timeout=None)'))
+Failed to retrieve data from: https://driftingwood.in/products/driftingwood-room-garden-love-folding-table-black
+Failed to retrieve data from: https://studioydesign.ca/products/ontario-classic-storage-bed
+Failed to retrieve data from: https://pure-patio.com/products/braxton-bar-arm-chair
+Error while accessing https://www.skyhomedecor.com/collections/kids/products/the-rug-market-doodle-71287-area-rug: HTTPSConnectionPool(host='www.skyhomedecor.com', port=443): Max retries exceeded with url: /collections/kids/products/the-rug-market-doodle-71287-area-rug (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.skyhomedecor.com'. (_ssl.c:992)")))
+Error while accessing https://elegantoak.co.uk/products/abbert-5ft-bed: HTTPSConnectionPool(host='elegantoak.co.uk', port=443): Max retries exceeded with url: /products/abbert-5ft-bed (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'elegantoak.co.uk'. (_ssl.c:992)")))
+Error while accessing https://emvy.gr/products/: HTTPSConnectionPool(host='emvy.gr', port=443): Max retries exceeded with url: /products/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9783ea10>: Failed to resolve 'emvy.gr' ([Errno -2] Name or service not known)"))
+Error while accessing https://em-say.com/products/gift-card: HTTPSConnectionPool(host='em-say.com', port=443): Max retries exceeded with url: /products/gift-card (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'em-say.com'. (_ssl.c:992)")))
+Error while accessing https://www.allaboutproduct.net/products/live-edge-86-metal-base-dining-table-with-matching-2-chairs-1-bench: HTTPSConnectionPool(host='www.allaboutproduct.net', port=443): Max retries exceeded with url: /products/live-edge-86-metal-base-dining-table-with-matching-2-chairs-1-bench (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.allaboutproduct.net'. (_ssl.c:992)")))
+Error while accessing https://rigersfitness.com/products/professional-wooden-rocker-balance-board: HTTPSConnectionPool(host='rigersfitness.com', port=443): Max retries exceeded with url: /products/professional-wooden-rocker-balance-board (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96ee9f10>: Failed to resolve 'rigersfitness.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://houseofdurante.co.uk/products/libra-bronze-boar-sculpture: HTTPSConnectionPool(host='houseofdurante.co.uk', port=443): Max retries exceeded with url: /products/libra-bronze-boar-sculpture (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'houseofdurante.co.uk'. (_ssl.c:992)")))
+Failed to retrieve data from: https://ezzo.co.uk/collections/home-page-products/products/garret-3-seat-sofa
+Error while accessing https://homedesires.com/products/gift-card: HTTPSConnectionPool(host='homedesires.com', port=443): Max retries exceeded with url: /products/gift-card (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Failed to retrieve data from: https://sakhome.co.uk/collections/best-sellers-1/products/bibi-candle-holder-rouge
+Failed to retrieve data from: https://www.astellahrela.com/products/narla-tray
+Failed to retrieve data from: https://huxlo.co.uk/products/desk
+Failed to retrieve data from: https://mandai-design.com/products/led-einbaustrahler-boston-downlight
+Failed to retrieve data from: https://www.furnituresales.com.au/products/200573469
+Error while accessing https://outonthepatio.com.au/products/aria: HTTPSConnectionPool(host='outonthepatio.com.au', port=443): Max retries exceeded with url: /products/aria (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'outonthepatio.com.au'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.mantrafurnishings.com/products/5285-01-chair
+Error while accessing https://thecooldepot.com/products/3d-cement-wall-planter: HTTPSConnectionPool(host='thecooldepot.com', port=443): Max retries exceeded with url: /products/3d-cement-wall-planter (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Failed to retrieve data from: https://ifortifi.ca/products/pl103
+Failed to retrieve data from: https://denvermodern.com/products/chula-outdoor-rug
+Error while accessing https://famgizmo.co.uk/products/1800w-log-burning-flame-effect-stove-electric-fire-heater-fireplace-standing: HTTPSConnectionPool(host='famgizmo.co.uk', port=443): Max retries exceeded with url: /products/1800w-log-burning-flame-effect-stove-electric-fire-heater-fireplace-standing (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'famgizmo.co.uk'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.interiorliving.ca/products/elaine-chair-1
+Error while accessing https://www.bbdgstore.com/products/bed-pillows: HTTPSConnectionPool(host='www.bbdgstore.com', port=443): Max retries exceeded with url: /products/bed-pillows (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf977af8d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Failed to retrieve data from: https://homeandpatioliving.com/products/mib
+Error while accessing https://www.savetheplanetfurniture.com/products/lantern-silver-cube: HTTPSConnectionPool(host='www.savetheplanetfurniture.com', port=443): Max retries exceeded with url: /products/lantern-silver-cube (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.savetheplanetfurniture.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.greensladesfurniture.co.nz/collections/rugs/products/nebraska-floor-rug-ash
+Error while accessing https://www.pizzazzhub.com.au/products/4-tier-tv-media-stand: HTTPSConnectionPool(host='www.pizzazzhub.com.au', port=443): Max retries exceeded with url: /products/4-tier-tv-media-stand (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf981a1a10>: Failed to resolve 'www.pizzazzhub.com.au' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.souk.co.nz/products/sumatra-chair%20via%20@https://twitter.com/Souk_Collective
+Error while accessing https://stylefurniture.com.sg/products/lucas-armchair: HTTPSConnectionPool(host='stylefurniture.com.sg', port=443): Max retries exceeded with url: /products/lucas-armchair (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98e2eb10>: Failed to resolve 'stylefurniture.com.sg' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.walteralice.com/products/wool-alpaca-poly-blend-check-fireside-chair?variant=8105538551900: HTTPSConnectionPool(host='www.walteralice.com', port=443): Max retries exceeded with url: /products/wool-alpaca-poly-blend-check-fireside-chair?variant=8105538551900 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98113650>: Failed to resolve 'www.walteralice.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://veroabode.com/products/adjustable-vintage-retro-rustic-bar-stool: HTTPSConnectionPool(host='veroabode.com', port=443): Max retries exceeded with url: /products/adjustable-vintage-retro-rustic-bar-stool (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'veroabode.com'. (_ssl.c:992)")))
+Error while accessing https://www.kotihome.com.au/collections/tv/products/new-devanti-40-inch-smart-led-tv-2k-full-hd-lcd-slim-screen-black: HTTPSConnectionPool(host='www.kotihome.com.au', port=443): Max retries exceeded with url: /collections/tv/products/new-devanti-40-inch-smart-led-tv-2k-full-hd-lcd-slim-screen-black (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98de6bd0>: Failed to resolve 'www.kotihome.com.au' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.novomodern.com/products/avenue-chair
+Error while accessing https://workspaceluxe.com.au/products/6ixty-zine-desk: HTTPSConnectionPool(host='workspaceluxe.com.au', port=443): Max retries exceeded with url: /products/6ixty-zine-desk (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'workspaceluxe.com.au'. (_ssl.c:992)")))
+Error while accessing https://www.newleafupcycled.com.au/products/rustic-shabby-chic-bookcase: HTTPSConnectionPool(host='www.newleafupcycled.com.au', port=443): Max retries exceeded with url: /products/rustic-shabby-chic-bookcase (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf982bfdd0>: Failed to resolve 'www.newleafupcycled.com.au' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.thedesignedit.com.au/products/daria-cushion
+Failed to retrieve data from: https://www.therusticfurniturestore.com/products/global-floor-lamp
+Failed to retrieve data from: https://dormahome.com/products/seaford-shelf-black
+Error while accessing https://www.paetry.com/products/catalina-chair: HTTPSConnectionPool(host='www.paetry.com', port=443): Max retries exceeded with url: /products/catalina-chair (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf982bdc10>: Failed to resolve 'www.paetry.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://reclaimedcharm.co/products/2-day-designs-dartboard-cabinet: HTTPSConnectionPool(host='reclaimedcharm.co', port=443): Max retries exceeded with url: /products/2-day-designs-dartboard-cabinet (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'reclaimedcharm.co'. (_ssl.c:992)")))
+Failed to retrieve data from: https://luxstreet.com.au/collections/outdoor/products/whitehaven-dining-chair-white-frame-white-wicker-seat
+Failed to retrieve data from: https://wazofurniture.com/collections/sofa/products/grant-blue-fabric-sofa
+Failed to retrieve data from: https://www.unitedoutdoorfurniture.com.au/products/scarlett-indoor-timber-buffet-sideboard%20via%20@https://twitter.com/UnitedHouse1
+Failed to retrieve data from: https://www.generalstorefurniture.com.au/products/design-customise-your-own-timber-dining-table
+Failed to retrieve data from: https://www.simpli-home.com/products/braxton-desk
+Failed to retrieve data from: https://americanwholesalefurniturewi.com/products/
+Failed to retrieve data from: https://www.mykahome.com.au/products/zee-back-cushion
+Failed to retrieve data from: https://mrnanyang.com/products/cushioned-soft-leather-chair
+Failed to retrieve data from: https://home-evolution.com/products/one-storys-not-enough/
+Error while accessing https://www.bilberry-furniture.co.uk/products/test: HTTPSConnectionPool(host='www.bilberry-furniture.co.uk', port=443): Max retries exceeded with url: /products/test (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97941c10>: Failed to resolve 'www.bilberry-furniture.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://bostonwoods.co.za/products/kr3-pedestal
+Error while accessing https://humelabamerica.com/products/clea: HTTPSConnectionPool(host='humelabamerica.com', port=443): Max retries exceeded with url: /products/clea (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'humelabamerica.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://sghomefurnishing.com/collections/study-room/products/alvise-working-desk
+Failed to retrieve data from: https://bydesigntexas.com/products/bdimargo%E2%84%A2-5229-media-cabinet-6-colors?_pos=1&_sid=81298bf3f&_ss=r
+Failed to retrieve data from: https://furnitureshop.net/products/curvy-chair
+Failed to retrieve data from: https://www.mooradians.com/products/?filter_brand=fairfield-chair-company
+Failed to retrieve data from: https://grandads-shed.com/products/daintree-mugs
+Error while accessing https://popularstores.co.za/products/te-6011: HTTPSConnectionPool(host='popularstores.co.za', port=443): Max retries exceeded with url: /products/te-6011 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'popularstores.co.za'. (_ssl.c:992)")))
+Failed to retrieve data from: https://lavida-furniture.com/products/lua
+Failed to retrieve data from: https://mydesignrepublic.com/collections/all/products/antika-rug
+Error while accessing https://www.alwaysabargain.co.uk/products/talladale-3-over-4-chest-of-drawers: HTTPSConnectionPool(host='www.alwaysabargain.co.uk', port=443): Max retries exceeded with url: /products/talladale-3-over-4-chest-of-drawers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.alwaysabargain.co.uk'. (_ssl.c:992)")))
+Error while accessing https://mikisew.ca/products/futon-mattress: HTTPSConnectionPool(host='mikisew.ca', port=443): Max retries exceeded with url: /products/futon-mattress (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mikisew.ca'. (_ssl.c:992)")))
+Error while accessing https://mybellas.com/products/paolo-bench: HTTPSConnectionPool(host='mybellas.com', port=443): Max retries exceeded with url: /products/paolo-bench (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mybellas.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://limitedabode.co.uk/products/pink-art
+Error while accessing https://shabbystore.co.uk/products/the-ritz-bed%20via%20@https://twitter.com/ShabbyStore: HTTPSConnectionPool(host='shabbystore.co.uk', port=443): Max retries exceeded with url: /products/the-ritz-bed%20via%20@https://twitter.com/ShabbyStore (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf9800bfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Failed to retrieve data from: https://welcometohome.com.au/products/peyton
+Error while accessing https://allstatefurniturenj.com/products/bayonne-bedroom-collection: HTTPSConnectionPool(host='allstatefurniturenj.com', port=443): Max retries exceeded with url: /products/bayonne-bedroom-collection (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf97a40910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Error while accessing http://www.odinlifestyle.com/products/collections/tyr/: HTTPConnectionPool(host='www.odinlifestyle.com', port=80): Max retries exceeded with url: /products/collections/tyr/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf98789e50>: Failed to resolve 'www.odinlifestyle.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://perfectforthehome.co.uk/collections/occasional/products/maison-velvet-chair
+Failed to retrieve data from: https://www.wrights-furniture.com/products/La-Z-Boy/lazboy/440521.html
+Failed to retrieve data from: https://www.klinnerfurniture.com/products/simmons/beautysleepdauphinislandtighttopplushking.html
+Failed to retrieve data from: https://www.lastersfurniture.com/products/surya/a10858.html
+Failed to retrieve data from: https://www.grainwoodfurniture.com/products/shaker-twin-panel-platform-bed
+Failed to retrieve data from: https://davishomefurniture.com/products/office/desk/
+Failed to retrieve data from: https://nofred.com/products/wall-bug
+Failed to retrieve data from: https://brisbanefurniture.com.au/products/linear-desk
+Failed to retrieve data from: https://www.theimporter.co.nz/products/bookshelf-rosewood
+Failed to retrieve data from: https://galaxiemodern.com/products/jens-risom-sofa
+Error while accessing https://opulencehome.com/products/lucas-leather-chair: HTTPSConnectionPool(host='opulencehome.com', port=443): Max retries exceeded with url: /products/lucas-leather-chair (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'opulencehome.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://circa60.com/products/mid-century-modern-walnut-hanging-floating-cabinet&text=Mid%20Century%20Modern%20Walnut%20HANGING%20%20/%20FLOATING%20CABINET
+Error while accessing https://www.stil.ie/products/butterfly-stool: HTTPSConnectionPool(host='www.stil.ie', port=443): Max retries exceeded with url: /products/butterfly-stool (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97b0b310>: Failed to resolve 'www.stil.ie' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.elanfurniturecorp.com/products/elan-furniture-port-indoor-60-bench%20via%20@//twitter.com/elanfurniture
+Failed to retrieve data from: https://lamporia.com/products/tbl4229a
+Error while accessing https://www.turquoise.co.uk/collections/walnut/products/walnut-glass-dining-table-h1096: HTTPSConnectionPool(host='www.turquoise.co.uk', port=443): Max retries exceeded with url: /collections/walnut/products/walnut-glass-dining-table-h1096 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.turquoise.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.patiocottage.com/collections/patio-chairs/products/back-pack-chair: HTTPSConnectionPool(host='www.patiocottage.com', port=443): Max retries exceeded with url: /collections/patio-chairs/products/back-pack-chair (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.patiocottage.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.smithmade.com.au/products/spargo-armchair
+Error while accessing https://theoutdoorpatiostore.com/products/gazebo-8x8: HTTPSConnectionPool(host='theoutdoorpatiostore.com', port=443): Max retries exceeded with url: /products/gazebo-8x8 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'theoutdoorpatiostore.com'. (_ssl.c:992)")))
+Error while accessing https://www.eventsuber.com/products/resin-folding-chairs-vinyl-pad&text=1000%20lb.%20Capacity%20Resin%20Folding%20Chair%20w/%20Vinyl%20Padded%20Seat: HTTPSConnectionPool(host='www.eventsuber.com', port=443): Max retries exceeded with url: /products/resin-folding-chairs-vinyl-pad&text=1000%20lb.%20Capacity%20Resin%20Folding%20Chair%20w/%20Vinyl%20Padded%20Seat (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.eventsuber.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://www.autonomousfurniture.com/collections/frontpage/products/pod11-1
+Failed to retrieve data from: https://parliamentinteriors.com/products/accessories-and-decor
+Failed to retrieve data from: https://www.bbfurniturestore.co.uk/products/sareer-3000-pocket-sprung-mattress
+Error while accessing https://baskdesign.com/collections/new-products/products/social-1: HTTPSConnectionPool(host='baskdesign.com', port=443): Max retries exceeded with url: /collections/new-products/products/social-1 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'baskdesign.com'. (_ssl.c:992)")))
+Failed to retrieve data from: https://finditstyleithome.com.au/products/dahlia-mirror-gold-1
+Error while accessing https://www.hanaleyinteriors.co.uk/products/page/3/: HTTPSConnectionPool(host='www.hanaleyinteriors.co.uk', port=443): Max retries exceeded with url: /products/page/3/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf980f6e50>: Failed to resolve 'www.hanaleyinteriors.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: http://mollanbros.co.uk/products/page/4/
+Failed to retrieve data from: https://atouchoffurniture.co.uk/products/alton-3-seat-sofa
+Failed to retrieve data from: https://www.needlerock.co.uk/products/chairs
+Error while accessing https://coastalhomecollective.com.au/products/wooden-tray: HTTPSConnectionPool(host='coastalhomecollective.com.au', port=443): Max retries exceeded with url: /products/wooden-tray (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Failed to retrieve data from: https://pastoesales.com/products/vision-sideboard-5
+Failed to retrieve data from: https://lexiconhome.com/products/h181000a70wh&via=&text=Chai%20Accent%20Chest%20w/%20Mirror%20Door
+Error while accessing https://www.soleilcollective.com/collections/beds/products/driade-edward-i-double-panel-bed: HTTPSConnectionPool(host='www.soleilcollective.com', port=443): Max retries exceeded with url: /collections/beds/products/driade-edward-i-double-panel-bed (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.soleilcollective.com'. (_ssl.c:992)")))
+Error while accessing https://www.valaray.com/collections/all/products/scandormi-sofa: HTTPSConnectionPool(host='www.valaray.com', port=443): Max retries exceeded with url: /collections/all/products/scandormi-sofa (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.valaray.com'. (_ssl.c:992)")))
+Error while accessing https://empirefurniture.co.nz/products/recliner-lounge-suite: HTTPSConnectionPool(host='empirefurniture.co.nz', port=443): Max retries exceeded with url: /products/recliner-lounge-suite (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9815ac90>: Failed to resolve 'empirefurniture.co.nz' ([Errno -2] Name or service not known)"))
+Error while accessing https://timleveson.shop/products/nico-sofa-1750-urban: HTTPSConnectionPool(host='timleveson.shop', port=443): Max retries exceeded with url: /products/nico-sofa-1750-urban (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf972164d0>: Failed to resolve 'timleveson.shop' ([Errno -2] Name or service not known)"))
+Error while accessing https://hoomefurniture.com/products/page/2/: HTTPSConnectionPool(host='hoomefurniture.com', port=443): Max retries exceeded with url: /products/page/2/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9752b950>: Failed to resolve 'hoomefurniture.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.thenineschools.co.uk/collections/trunk/products/oriental-decorated-blue-trunk
+Failed to retrieve data from: https://us.alexandrallewellyn.com/products/leaf
+Failed to retrieve data from: https://yourpatiostore.com/products/zara-loveseat
+Failed to retrieve data from: https://www.idealfurnishings.co.uk/products/amsterdam-double-bedstead
+Error while accessing https://www.villalane.com.au/products/gift-card: HTTPSConnectionPool(host='www.villalane.com.au', port=443): Max retries exceeded with url: /products/gift-card (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9817b150>: Failed to resolve 'www.villalane.com.au' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://ingoodcompany.com.au/collections/new-arrivals/products/kuru-bowl-ceramic-37cm-grey
+Failed to retrieve data from: https://rutherford-romaguera2611.myshopify.com/products/teddy-rug%20via%20@//twitter.com/undergrndmedia
+Failed to retrieve data from: http://olgunstore.com/en/products/sleeping-products/toppers/
+Failed to retrieve data from: https://bungalowfurniture.com/products/bath-mat
+Error while accessing https://ajnaliving.com/products/provence-sofa: HTTPSConnectionPool(host='ajnaliving.com', port=443): Max retries exceeded with url: /products/provence-sofa (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ajnaliving.com'. (_ssl.c:992)")))
+Error while accessing https://foldsmart.co.uk/collections/frontpage/products/deep-double-bookcase: HTTPSConnectionPool(host='foldsmart.co.uk', port=443): Max retries exceeded with url: /collections/frontpage/products/deep-double-bookcase (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'foldsmart.co.uk'. (_ssl.c:992)")))
+Failed to retrieve data from: https://foreverfurniture.ca/products/living/palliser-furniture/india-leather-sofa
+Failed to retrieve data from: https://sigmanmills.com/products/gift-card
+Failed to retrieve data from: https://www.thechesterfieldshop.com/products/sofas/
+Error while accessing https://zulufurniture.com/products/posh: HTTPSConnectionPool(host='zulufurniture.com', port=443): Max retries exceeded with url: /products/posh (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98149c90>: Failed to resolve 'zulufurniture.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://furnituremaddness.com/products/l-shape-leather-lounge: HTTPSConnectionPool(host='furnituremaddness.com', port=443): Max retries exceeded with url: /products/l-shape-leather-lounge (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf978f3d10>: Failed to resolve 'furnituremaddness.com' ([Errno -2] Name or service not known)"))
+Error while accessing https://suncoastsitra.shoptiqstore.com.sg/products/footstool&media=https://cdn.store-assets.com/s/257913/i/8659911_480x.jpeg&description=Footstool: HTTPSConnectionPool(host='suncoastsitra.shoptiqstore.com.sg', port=443): Max retries exceeded with url: /products/footstool&media=https://cdn.store-assets.com/s/257913/i/8659911_480x.jpeg&description=Footstool (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf98cdf810>: Failed to resolve 'suncoastsitra.shoptiqstore.com.sg' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.therejectshop.sg/products/page/3
+Failed to retrieve data from: https://www.centralliving.co.uk/products/vik-desk-chair
+Error while accessing http://www.makebuildmend.co.uk/products/: HTTPConnectionPool(host='www.makebuildmend.co.uk', port=80): Max retries exceeded with url: /products/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf98e66910>: Failed to resolve 'www.makebuildmend.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://hilaryandflo.co.uk/products/nice-print: HTTPSConnectionPool(host='hilaryandflo.co.uk', port=443): Max retries exceeded with url: /products/nice-print (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf973c09d0>: Failed to resolve 'hilaryandflo.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://pinchdesign.co.uk/products/emil: HTTPSConnectionPool(host='pinchdesign.co.uk', port=443): Max retries exceeded with url: /products/emil (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9845eb10>: Failed to resolve 'pinchdesign.co.uk' ([Errno -5] No address associated with hostname)"))
+Error while accessing https://www.sartra.co.uk/products/beaufort-large-oak-tv-unit: HTTPSConnectionPool(host='www.sartra.co.uk', port=443): Max retries exceeded with url: /products/beaufort-large-oak-tv-unit (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sartra.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.solidoakfurniture.co.uk/products/beds.html: HTTPSConnectionPool(host='www.solidoakfurniture.co.uk', port=443): Max retries exceeded with url: /products/beds.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:992)')))
+Failed to retrieve data from: https://www.whytesofcrossgar.co.uk/products/otto-accent-chair
+Failed to retrieve data from: https://glenwoodfurnishings.co.uk/collections/dining-room/products/cambridge-dining-set
+Failed to retrieve data from: https://furniturebylauren.co.uk/products/mayfair-bedroom/
+Failed to retrieve data from: https://thefurniture-house.co.uk/products/new-grey-recliner-sofa
+Failed to retrieve data from: https://lloydloom-uk.co.uk/products/ellwood
+Failed to retrieve data from: https://www.royalcraft.co.uk/products/ascot-shed-2
+Failed to retrieve data from: https://www.theattikstannes.co.uk/products/stunning-mid-century-vintage-teak-portwood-sideboard-credenza-1205
+Error while accessing https://britishhomeinteriors.co.uk/products/mirrored-fireplace: HTTPSConnectionPool(host='britishhomeinteriors.co.uk', port=443): Max retries exceeded with url: /products/mirrored-fireplace (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'britishhomeinteriors.co.uk'. (_ssl.c:992)")))
+Failed to retrieve data from: http://furniture4lettings.co.uk/../products/sofas/
+Failed to retrieve data from: https://furnituredirectonline.co.uk/products/page/2/
+Error while accessing http://imaginexfurniture.uk/collections/sarah/products/sarah-grey-birch-italian-coffee-table: HTTPConnectionPool(host='imaginexfurniture.uk', port=80): Max retries exceeded with url: /collections/sarah/products/sarah-grey-birch-italian-coffee-table (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf96efff90>: Failed to resolve 'imaginexfurniture.uk' ([Errno -2] Name or service not known)"))
+Error while accessing http://m-edition.co.uk/products/ch103-sofa: HTTPConnectionPool(host='m-edition.co.uk', port=80): Max retries exceeded with url: /products/ch103-sofa (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf96efef90>: Failed to resolve 'm-edition.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: http://macquillanhome.co.uk/products/dressing-table-and-mirror-mqfn187.html
+Error while accessing https://paulcaseboutique.co.uk/products/spyder-dining-chair: HTTPSConnectionPool(host='paulcaseboutique.co.uk', port=443): Max retries exceeded with url: /products/spyder-dining-chair (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97efd0d0>: Failed to resolve 'paulcaseboutique.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://rotherwoodfurniture.com/products/silverton-135cm-bedstead: HTTPSConnectionPool(host='rotherwoodfurniture.com', port=443): Max retries exceeded with url: /products/silverton-135cm-bedstead (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rotherwoodfurniture.com'. (_ssl.c:992)")))
+Error while accessing https://www.search4furniture.com/products/ritz-bed: HTTPSConnectionPool(host='www.search4furniture.com', port=443): Max retries exceeded with url: /products/ritz-bed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf98387f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Error while accessing https://shop4sofas.co.uk/products/rye: HTTPSConnectionPool(host='shop4sofas.co.uk', port=443): Max retries exceeded with url: /products/rye (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'shop4sofas.co.uk'. (_ssl.c:992)")))
+Error while accessing http://www.sjdfurniture.co.uk/products/: HTTPConnectionPool(host='www.sjdfurniture.co.uk', port=80): Max retries exceeded with url: /products/ (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7fbf98387210>: Failed to resolve 'www.sjdfurniture.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://thedorsetfurniturecompany.co.uk/products/arctic-white-high-gloss-150cm-shelf: HTTPSConnectionPool(host='thedorsetfurniturecompany.co.uk', port=443): Max retries exceeded with url: /products/arctic-white-high-gloss-150cm-shelf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf986e8590>: Failed to resolve 'thedorsetfurniturecompany.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.tobychairs.com/products/toby-table-oak: HTTPSConnectionPool(host='www.tobychairs.com', port=443): Max retries exceeded with url: /products/toby-table-oak (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf985239d0>: Failed to resolve 'www.tobychairs.com' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://uniquehomefurnishing.co.uk/products/hzh330
+Failed to retrieve data from: https://www.modernfurnituredeals.co.uk/products/ovo
+Error while accessing https://www.peterboroughreclinercentre.co.uk/products/reno-chair-with-footstool: HTTPSConnectionPool(host='www.peterboroughreclinercentre.co.uk', port=443): Max retries exceeded with url: /products/reno-chair-with-footstool (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))
+Failed to retrieve data from: https://outletbarn.co.uk/collections/corner-sofas/products/ellena-recliner-corner-group-brown-only-limited-stock
+Failed to retrieve data from: https://www.rightprice.co.uk/collections/all/products/alexis
+Error while accessing https://www.sheridaninteriors.co.uk/products/celine-fabric-bed: HTTPSConnectionPool(host='www.sheridaninteriors.co.uk', port=443): Max retries exceeded with url: /products/celine-fabric-bed (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sheridaninteriors.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.chattelsfurniture.co.uk/products/bedside-table-two-drawers: HTTPSConnectionPool(host='www.chattelsfurniture.co.uk', port=443): Max retries exceeded with url: /products/bedside-table-two-drawers (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:992)')))
+Failed to retrieve data from: https://www.maisonandgarden.co.uk/products/28cm-solar-ball
+Error while accessing https://igigishop.co.uk/products/cotton-rug: HTTPSConnectionPool(host='igigishop.co.uk', port=443): Max retries exceeded with url: /products/cotton-rug (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'igigishop.co.uk'. (_ssl.c:992)")))
+Error while accessing https://divine-interiors.co.uk/products/sofa-deposit: HTTPSConnectionPool(host='divine-interiors.co.uk', port=443): Max retries exceeded with url: /products/sofa-deposit (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97a70790>: Failed to resolve 'divine-interiors.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://auburnfox.co.uk/products/iron-and-leather-adjustable-stool
+Failed to retrieve data from: https://www.decoframe.co.uk/products/
+Failed to retrieve data from: https://ashtonandcoleman.co.uk/products/tables/lamp-table
+Failed to retrieve data from: https://www.quaysideinteriors.co.uk/products/alexandra-bed-king
+Error while accessing https://alidasa.co.uk/products/terra-6-3-drawer-pine-white: HTTPSConnectionPool(host='alidasa.co.uk', port=443): Max retries exceeded with url: /products/terra-6-3-drawer-pine-white (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96def450>: Failed to resolve 'alidasa.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.lovettandjudge.co.uk/products/worker-bee-picture: HTTPSConnectionPool(host='www.lovettandjudge.co.uk', port=443): Max retries exceeded with url: /products/worker-bee-picture (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lovettandjudge.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.toplinestore.co.uk/products/valawhi/products/valawhi&title=Vala%20High%20Gloss%20Coffee%20Tabl...&source=http://www.toplinestore.co.uk/products/valawhi: HTTPSConnectionPool(host='www.toplinestore.co.uk', port=443): Max retries exceeded with url: /products/valawhi/products/valawhi&title=Vala%20High%20Gloss%20Coffee%20Tabl...&source=http://www.toplinestore.co.uk/products/valawhi (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toplinestore.co.uk'. (_ssl.c:992)")))
+Error while accessing https://chelseafurnishings.co.uk/products/ashton-range: HTTPSConnectionPool(host='chelseafurnishings.co.uk', port=443): Max retries exceeded with url: /products/ashton-range (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chelseafurnishings.co.uk'. (_ssl.c:992)")))
+Error while accessing https://windsorbedding.co.uk/products/: HTTPSConnectionPool(host='windsorbedding.co.uk', port=443): Max retries exceeded with url: /products/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbf97e3f8d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Error while accessing https://www.arfurnishings.co.uk/products/kyoto-quilted-knockerback-chair: HTTPSConnectionPool(host='www.arfurnishings.co.uk', port=443): Max retries exceeded with url: /products/kyoto-quilted-knockerback-chair (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.arfurnishings.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.dezilux.co.uk/products/aliya-french-style-console-table: HTTPSConnectionPool(host='www.dezilux.co.uk', port=443): Max retries exceeded with url: /products/aliya-french-style-console-table (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96ed1f10>: Failed to resolve 'www.dezilux.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.harperandfaith.co.uk/products/jupiter-bed: HTTPSConnectionPool(host='www.harperandfaith.co.uk', port=443): Max retries exceeded with url: /products/jupiter-bed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96ed0090>: Failed to resolve 'www.harperandfaith.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://elegancehomefurniture.co.uk/products/dylan-crushed-velvet-swivel-cuddle-chair
+Error while accessing https://www.homeaffections.co.uk/products/wide-display-cabinet-540005-bonoca: HTTPSConnectionPool(host='www.homeaffections.co.uk', port=443): Max retries exceeded with url: /products/wide-display-cabinet-540005-bonoca (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:992)')))
+Failed to retrieve data from: https://hemmingandwills.co.uk/products/arne-desk
+Error while accessing https://jopa-interiors.co.uk/products/black-weave-cushion-with-tag: HTTPSConnectionPool(host='jopa-interiors.co.uk', port=443): Max retries exceeded with url: /products/black-weave-cushion-with-tag (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf97e3c450>: Failed to resolve 'jopa-interiors.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://airfurniture.co.uk/products/zues-pu-storage-bed: HTTPSConnectionPool(host='airfurniture.co.uk', port=443): Max retries exceeded with url: /products/zues-pu-storage-bed (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'airfurniture.co.uk'. (_ssl.c:992)")))
+Error while accessing https://www.furlon.co.uk/products/194: HTTPSConnectionPool(host='www.furlon.co.uk', port=443): Max retries exceeded with url: /products/194 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9817e790>: Failed to resolve 'www.furlon.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://rustic-furniture.co.uk/products/curved-open-bedside: HTTPSConnectionPool(host='rustic-furniture.co.uk', port=443): Max retries exceeded with url: /products/curved-open-bedside (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf9817c590>: Failed to resolve 'rustic-furniture.co.uk' ([Errno -2] Name or service not known)"))
+Error while accessing https://www.skhomedecor.co.uk/products/page/2/: HTTPSConnectionPool(host='www.skhomedecor.co.uk', port=443): Max retries exceeded with url: /products/page/2/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbf96dee810>: Failed to resolve 'www.skhomedecor.co.uk' ([Errno -2] Name or service not known)"))
+Failed to retrieve data from: https://www.onlydiningchairs.com.au/products/wooden-velvet-retro-grey-dining-chair
+Failed to retrieve data from: https://www.myharmony.hk/products/woody-slab-table
+Failed to retrieve data from: https://afg.us.com/products/ashley-baraga-h410-24
+Failed to retrieve data from: https://savannahspace.com/products/bo-woven-rug
+Failed to retrieve data from: https://www.sundays-company.com/collections/new-arrivals/products/sink-in-sofa-ecru
+Failed to retrieve data from: https://superdealfurnituregallery.com/products/tristan-5-piece-kitchen-set
+Failed to retrieve data from: https://signaturefinefurniture.ca/products/jacobson-bed
+Error while accessing https://furnituremama.com/products/three-door-wardrobe-mirror-2: HTTPSConnectionPool(host='furnituremama.com', port=443): Max retries exceeded with url: /products/three-door-wardrobe-mirror-2 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:992)')))
+Failed to retrieve data from: https://www.mwfurnitureoutlet.com/products/dresser
