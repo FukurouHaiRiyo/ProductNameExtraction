@@ -48,7 +48,7 @@ if __name__ == "__main__":
     # declaring the paths to the input and output files
     input_file_path = "furniture stores pages.csv"  
     valid_links_output_file = "valid_links.txt"
-    product_names_output_file = "product_names.txt" 
+    product_names_output_file = "product_names.txt"
 
     # Read the urls from the input file
     urls = read_urls_from_file(input_file_path)
@@ -58,6 +58,7 @@ if __name__ == "__main__":
     for url in urls:
         product_names = get_product_names_from_url(url)
         for product_name in product_names:
+            # checking if the link works
             if is_valid_link(url):
                 all_product_names_and_links.append((product_name, url))
 

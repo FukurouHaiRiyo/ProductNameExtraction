@@ -22,17 +22,29 @@ for link in links:
         formatted_link = (link, {"entities": [entity_label]})
         formatted_links.append(formatted_link)
 
+# Read the product names from the file
+product_names_file = "product_names.txt"
+with open(product_names_file, "r") as file:
+    product_names = [line.strip() for line in file.readlines()]
+
+# Format the product names with "PRODUCT" entity label
+for product_name in product_names:
+    entity_label = (0, len(product_name), "PRODUCT")
+    formatted_product_name = (product_name, {"entities": [entity_label]})
+    formatted_links.append(formatted_product_name)
+
 
 # Train the NER model
 model = None
 output_dir = Path("ner/")
 n_iter = 25
 
-# Load the model
+# Load the model if it exists
 if model is not None:
     nlp = spacy.load(model)
     print("Loaded model '%s'" % model)
 else:
+    # if not, crete a new empty model
     nlp = spacy.blank('en')
     print("Created blank 'en' model")
 
@@ -47,15 +59,16 @@ for _, annotations in formatted_links:
     for ent in annotations.get('entities'):
         ner.add_label(ent[2])
 
+
 example = []
 other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
 with nlp.disable_pipes(*other_pipes):  # only train NER
     optimizer = nlp.begin_training()
     for itn in range(n_iter):
         print(f'Iteration: {itn + 1}')
-        random.shuffle(formatted_links)  # Use formatted_links here
+        random.shuffle(formatted_links) 
         losses = {}
-        for text, annotations in tqdm(formatted_links):  # Use formatted_links here
+        for text, annotations in tqdm(formatted_links): 
             doc = nlp.make_doc(text)
             example = Example.from_dict(doc, annotations)
             nlp.update(
@@ -77,4 +90,5 @@ pickle.dump(nlp, open("links.pkl", "wb" ))
 
 doc = nlp("https://www.skandium.com/products/ch24-soft")
 
-print("PRODUCT ------>", doc.text)
+for ent in doc.ents:
+    print(ent.label_ + '  ------>   ' + ent.text)
